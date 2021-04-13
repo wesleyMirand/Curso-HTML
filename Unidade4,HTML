@@ -1,0 +1,37 @@
+<html>
+     <head> 
+          <title> turma top</title>
+     </head>
+ 
+     <body>
+
+   <h1> Brasil se torna o pais mais transacao pix </h1>
+           Em funcionamento desde segunda-feira, o Pix somou 5,2 milhões de operações nos seus três primeiros dias de operação,       
+           atingindo R$ 4,6 bilhões. Já o prazo médio para que as operações sejam liquidadas está em um segundo. As afirmaçõesforam 
+           feitas nesta quinta-feira pelo diretor de organização do sistema financeiro e resolução do Banco Central (BC), JoãoManoel 
+           Pinho de Mello, disse em live promovida pelo portal UOL.
+            
+    <p>
+       Dados relativos às transações Pix: dados mensais referentes às transações liquidadas no Sistema de Pagamentos Instantâneos (SPI) e às informações enviadas por participantes do Pix de transações liquidadas fora do SPI. Valores e montantes Pix são a soma das transações cursadas no SPI e das transações cursadas fora do SPI.
+       O ranking <u>Brasil</u> é :
+
+    </p>
+    <ol type = "I" start = "10">
+          <li value="15"> África: 54</li>
+           <li>Europa: 50</li>
+           <li>LiÁsia: 48</li>
+           <li>América: 35</li>
+           <li>Oceania: 14</li>
+    </ol>
+           
+     <ul type = "circle">
+          <li value="15"> África: 54</li>
+           <li>Europa: <s> 50</s> </li>
+           <li> <sub>LiÁsia: 48</sub> </li>
+           <li>América: 35</li>
+           <li>Oceania: 14</li>
+           <li> 1 <sup> <strong> <i>  10 </i> </strong> </sup> </li>
+    </ul>
+     </body>
+
+</html>
