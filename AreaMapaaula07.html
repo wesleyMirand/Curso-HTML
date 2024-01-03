@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <title>Curso Html</title>
+</head>
+<body>
+
+    <img src="mapa.png" alt="Mapa do Brasil" usemap="#mapaBrasil"> <!-- adicionado atributo alt e atributo usemap -->
+
+    <map name="mapaBrasil">
+        <area alt="São Paulo" shape="poly" href="https://www.google.com.br/maps/place/S%C3%A3o+Paulo,+SP/@-23.6814346,-46.9249633,10z/data=!3m1!4b1!4m6!3m5!1s0x94ce448183a461d1:0x9ba94b08ff335bae!8m2!3d-23.5557714!4d-46.6395571!16zL20vMDIycGZt?entry=ttu" target="_blank" coords="340,368,351,347,385,344,396,300,438,286,492,313,467,375,447,399,402,412,387,370,346,367">
+
+        <area alt="Tocantins" shape="poly" href="https://www.google.com.br/maps/place/Tocantins/@-9.2682319,-53.5217673,6z/data=!3m1!4b1!4m6!3m5!1s0x9323501f52b13997:0xe3d4866245cc396c!8m2!3d-11.4098737!4d-48.7191423!16zL20vMGQwazQ?entry=ttu" target="_blank" coords="373,154,389,162,384,189,398,196,390,213,403,229,413,229,402,245,406,270,373,273,342,266,350,213,366,191,362,181,378,164">
+
+        <area alt="Minas Gerais" shape="rect" href="https://www.google.com.br/maps/place/Minas+Gerais/@-18.4935473,-50.7498567,6z/data=!3m1!4b1!4m6!3m5!1s0xa690a165324289:0x112170c9379de7b3!8m2!3d-17.930178!4d-43.7908453!16zL20vMDFnaDZ6?entry=ttu" target="_blank" coords="198,140,313,225">
+    </map>
+</body>
+</html>
+<!-- Tag Area trabalha junto com a map, filha da map, define uma area clicavel, atraves formas, retangulos circulos... Pode ser uma imagem , area nao tem display, nao e elemento visivel,<map>, nao tem filhos vazio e none contipo por map, parametro "alt=", shape é o tipo do mapa-->
