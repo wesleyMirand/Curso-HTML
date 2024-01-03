@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<title>Curso MENINO HTML</title>
+	<style>
+		.article{
+			padding: 15px;
+			border: 1px solid #000;
+			border-radius: 10px ;
+			background-color: #eee;
+			margin-bottom: 10px;
+		}
+
+		.article h1{
+			color: #f103;
+		}
+	</style>
+</head>
+<body>
+
+	<h1>CURSO DO MENINO HTML</h1>
+
+	<div class="article">
+		<h1> Menino HTML CURSOS </h1>
+		<p> Canal de Cursos Gratuitos </p>
+	</div>
+
+		<div class="article">
+		<h1> Cursos disponiveis</h1>
+		<p> Httpie </p>
+		<p> Ux designer </p>
+	</div>
+
+	<div class="article">
+		<h1>Curso Do Menino Html</h1>
+		<p>Vamos aprender HTTPIE para hospedagem </p>
+	</div>
+
+</body>
+</html>
+
+<!--maneira antiga de usar o article!o h1 nao receber o padrao!-->
